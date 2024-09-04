@@ -69,7 +69,3 @@ Enter the output filename for the decrypted file: C:\\Users\\micha\\Desktop\\sam
 ## Acknowledgements
 - **Relative Code by**: Pratik Somwanshi ([GeeksforGeeks](https://www.geeksforgeeks.org/vigenere-cipher/))
 
-## License
-
-MIT License. See the [LICENSE](LICENSE) file for details.
-
